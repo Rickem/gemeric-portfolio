@@ -93,7 +93,7 @@ const About = () => {
         <div className="grid-special-color grid-4">
           <div className="flex flex-col items-center justify-center gap-4 size-full">
             <p className="text-center headtext">
-              Do you want to start a project together?
+              Do you want to work together?
             </p>
             <CopyEmailButton />
           </div>
