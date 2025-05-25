@@ -3,12 +3,12 @@ import { OrbitingCircles } from "./OrbitingCircles";
 export function Frameworks() {
   const skills = [
     "auth0",
-    "blazor",
-    "cplusplus",
-    "csharp",
+    // "flutter",
+    // "typescript",
+    // "google",
     "css3",
-    "dotnet",
-    "dotnetcore",
+    // "angular",
+    // "next.js",
     "git",
     "html5",
     "javascript",
